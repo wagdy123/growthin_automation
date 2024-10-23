@@ -1,0 +1,5 @@
+{
+  "baseUrl": "http://localhost:8000", // If using Laravel's built-in server
+  "viewportWidth": 1280,
+  "viewportHeight": 720
+}
